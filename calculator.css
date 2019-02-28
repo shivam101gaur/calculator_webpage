@@ -1,0 +1,46 @@
+#imagecorner
+{
+	width: 500px;
+position: absolute;
+bottom: 0px;
+right: 0px;
+
+}
+
+.heading
+{
+	
+padding: 20px;
+	
+font-family: 'Yellowtail', cursive;
+	
+font-weight: bold;
+	
+font-size: 80px;
+	
+letter-spacing: 4px;
+	
+color: #009688;
+	
+text-shadow: 1px 2px 0px black;
+	
+padding-bottom: 2px;
+}
+
+.inputimage
+{
+	width: 10%;
+	position:absolute;
+	top: 190px;
+	left: 30px;
+}
+.hidden
+{
+	display: none;
+}
+
+span :hover
+{
+	width: 10.3%;
+	cursor: pointer;
+}
